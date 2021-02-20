@@ -1,0 +1,6 @@
+[submodule "dragondex-backend"]
+	path = dragondex-backend
+	url = https://github.com/mrniceguy127/dragondex-backend.git
+[submodule "osu-recent-plays-collection"]
+	path = osu-recent-plays-collection
+	url = https://github.com/mrniceguy127/osu-recent-plays-collection.git
